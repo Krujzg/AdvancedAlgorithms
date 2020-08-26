@@ -1,0 +1,31 @@
+C:\Users\Zsolti\Documents\Tanulas\OE5.felev\Halado_Algoritmusok\HaladoAlgHazi1.0\HaladoAlgHazi1.0\bin\Debug\HaladoAlgHazi1.0.exe.config
+C:\Users\Zsolti\Documents\Tanulas\OE5.felev\Halado_Algoritmusok\HaladoAlgHazi1.0\HaladoAlgHazi1.0\bin\Debug\HaladoAlgHazi1.0.exe
+C:\Users\Zsolti\Documents\Tanulas\OE5.felev\Halado_Algoritmusok\HaladoAlgHazi1.0\HaladoAlgHazi1.0\bin\Debug\HaladoAlgHazi1.0.pdb
+C:\Users\Zsolti\Documents\Tanulas\OE5.felev\Halado_Algoritmusok\HaladoAlgHazi1.0\HaladoAlgHazi1.0\obj\Debug\HaladoAlgHazi1.0.csprojResolveAssemblyReference.cache
+C:\Users\Zsolti\Documents\Tanulas\OE5.felev\Halado_Algoritmusok\HaladoAlgHazi1.0\HaladoAlgHazi1.0\obj\Debug\MainWindow.g.cs
+C:\Users\Zsolti\Documents\Tanulas\OE5.felev\Halado_Algoritmusok\HaladoAlgHazi1.0\HaladoAlgHazi1.0\obj\Debug\App.g.cs
+C:\Users\Zsolti\Documents\Tanulas\OE5.felev\Halado_Algoritmusok\HaladoAlgHazi1.0\HaladoAlgHazi1.0\obj\Debug\HaladoAlgHazi1.0_MarkupCompile.cache
+C:\Users\Zsolti\Documents\Tanulas\OE5.felev\Halado_Algoritmusok\HaladoAlgHazi1.0\HaladoAlgHazi1.0\obj\Debug\HaladoAlgHazi1.0_MarkupCompile.lref
+C:\Users\Zsolti\Documents\Tanulas\OE5.felev\Halado_Algoritmusok\HaladoAlgHazi1.0\HaladoAlgHazi1.0\obj\Debug\MainWindow.baml
+C:\Users\Zsolti\Documents\Tanulas\OE5.felev\Halado_Algoritmusok\HaladoAlgHazi1.0\HaladoAlgHazi1.0\obj\Debug\HaladoAlgHazi1.0.g.resources
+C:\Users\Zsolti\Documents\Tanulas\OE5.felev\Halado_Algoritmusok\HaladoAlgHazi1.0\HaladoAlgHazi1.0\obj\Debug\HaladoAlgHazi1._0.Properties.Resources.resources
+C:\Users\Zsolti\Documents\Tanulas\OE5.felev\Halado_Algoritmusok\HaladoAlgHazi1.0\HaladoAlgHazi1.0\obj\Debug\HaladoAlgHazi1.0.csproj.GenerateResource.cache
+C:\Users\Zsolti\Documents\Tanulas\OE5.felev\Halado_Algoritmusok\HaladoAlgHazi1.0\HaladoAlgHazi1.0\obj\Debug\HaladoAlgHazi1.0.csproj.CoreCompileInputs.cache
+C:\Users\Zsolti\Documents\Tanulas\OE5.felev\Halado_Algoritmusok\HaladoAlgHazi1.0\HaladoAlgHazi1.0\obj\Debug\HaladoAlgHazi1.0.exe
+C:\Users\Zsolti\Documents\Tanulas\OE5.felev\Halado_Algoritmusok\HaladoAlgHazi1.0\HaladoAlgHazi1.0\obj\Debug\HaladoAlgHazi1.0.pdb
+C:\Users\Zsolti\Documents\Tanulas\OE5.felev\Halado_Algoritmusok\HaladoAlgHazi1.0\HaladoAlgHazi1.0\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\tanulmányok\8. félév\Haladó algoritmusok\HaladoAlgHazi1.0\HaladoAlgHazi1.0\bin\Debug\HaladoAlgHazi1.0.exe.config
+E:\tanulmányok\8. félév\Haladó algoritmusok\HaladoAlgHazi1.0\HaladoAlgHazi1.0\bin\Debug\HaladoAlgHazi1.0.exe
+E:\tanulmányok\8. félév\Haladó algoritmusok\HaladoAlgHazi1.0\HaladoAlgHazi1.0\bin\Debug\HaladoAlgHazi1.0.pdb
+E:\tanulmányok\8. félév\Haladó algoritmusok\HaladoAlgHazi1.0\HaladoAlgHazi1.0\obj\Debug\HaladoAlgHazi1.0.csprojAssemblyReference.cache
+E:\tanulmányok\8. félév\Haladó algoritmusok\HaladoAlgHazi1.0\HaladoAlgHazi1.0\obj\Debug\MainWindow.g.cs
+E:\tanulmányok\8. félév\Haladó algoritmusok\HaladoAlgHazi1.0\HaladoAlgHazi1.0\obj\Debug\App.g.cs
+E:\tanulmányok\8. félév\Haladó algoritmusok\HaladoAlgHazi1.0\HaladoAlgHazi1.0\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\tanulmányok\8. félév\Haladó algoritmusok\HaladoAlgHazi1.0\HaladoAlgHazi1.0\obj\Debug\HaladoAlgHazi1.0_MarkupCompile.cache
+E:\tanulmányok\8. félév\Haladó algoritmusok\HaladoAlgHazi1.0\HaladoAlgHazi1.0\obj\Debug\HaladoAlgHazi1.0_MarkupCompile.lref
+E:\tanulmányok\8. félév\Haladó algoritmusok\HaladoAlgHazi1.0\HaladoAlgHazi1.0\obj\Debug\MainWindow.baml
+E:\tanulmányok\8. félév\Haladó algoritmusok\HaladoAlgHazi1.0\HaladoAlgHazi1.0\obj\Debug\HaladoAlgHazi1.0.g.resources
+E:\tanulmányok\8. félév\Haladó algoritmusok\HaladoAlgHazi1.0\HaladoAlgHazi1.0\obj\Debug\HaladoAlgHazi1._0.Properties.Resources.resources
+E:\tanulmányok\8. félév\Haladó algoritmusok\HaladoAlgHazi1.0\HaladoAlgHazi1.0\obj\Debug\HaladoAlgHazi1.0.csproj.GenerateResource.cache
+E:\tanulmányok\8. félév\Haladó algoritmusok\HaladoAlgHazi1.0\HaladoAlgHazi1.0\obj\Debug\HaladoAlgHazi1.0.exe
+E:\tanulmányok\8. félév\Haladó algoritmusok\HaladoAlgHazi1.0\HaladoAlgHazi1.0\obj\Debug\HaladoAlgHazi1.0.pdb
